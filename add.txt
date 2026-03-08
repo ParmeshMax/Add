@@ -1,0 +1,11 @@
+# 🚀 Simple Python Program to Add Two Numbers
+
+# ✨ Step 1: Assign values
+a = 10   # 🔢 First number
+b = 20   # 🔢 Second number
+
+# ✨ Step 2: Perform addition
+p = a + b   # ➕ Adding the two numbers
+
+# ✨ Step 3: Display the result
+print("Sum of two numbers =", p)  # 🖥️ Output
